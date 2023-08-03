@@ -1,0 +1,24 @@
+<div class="pensamento {{ pensamento.modelo }} ff-roboto-mono">
+  <img
+    src="./assets/imagens/{{ pensamento.modelo }}.png"
+    alt="Aspas colorida"
+  />
+  <p class="conteudo">{{ pensamento.conteudo }}</p>
+  <p class="conteudo">
+    <b> {{ pensamento.autoria }}</b>
+  </p>
+  <div class="acoes">
+    <button
+      class="botao-editar"
+      routerLink="/pensamentos/editarPensamento/{{ pensamento.id }}"
+    >
+      <img src="./assets/imagens/icone-editar.png" alt="Ícone para editar" />
+    </button>
+    <button
+      class="botao-excluir"
+      routerLink="/pensamentos/excluirPensamento/{{ pensamento.id }}"
+    >
+      <img src="./assets/imagens/icone-excluir.png" alt="Ícone para excluir" />
+    </button>
+  </div>
+</div>
