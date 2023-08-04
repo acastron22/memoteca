@@ -34,4 +34,4 @@ Para testar essa aplicação siga as instruções:
 Foi desenvolvido utilizando o Angular 15, muito CSS para personalização e artes prontas do curso além de um json server para executar um pequeno servidor e realizar
 as operações com requisição HTTP. 
 
-# Sinta-se a vontade para me mandar mensagens com qualquer dúvida sobre o projeto! Até logo!
+### Sinta-se a vontade para me mandar mensagens com qualquer dúvida sobre o projeto! Até logo!
