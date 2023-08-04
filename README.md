@@ -1,6 +1,6 @@
 # Memoteca
 
-🇧🇷
+:brazil:
 O que seria a Memoteca
 
 
