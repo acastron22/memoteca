@@ -4,43 +4,50 @@
       "id": 1,
       "conteudo": "Angular é o melhor Framework",
       "autoria": "Google",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": true
     },
     {
       "id": 2,
       "conteudo": "Garota de Ipanema",
       "autoria": "Antônio Carlos Jobim e Vinicius de Moraes",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "Gostava tanto de você",
       "autoria": "Tim Maia",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": true
     },
     {
       "id": 5,
       "conteudo": "Bootstrap é muito útil",
       "autoria": "Desenvolvedores de maneira geral",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "conteudo": "Get Back Jojo!",
       "autoria": "The Beatles",
       "modelo": "modelo2",
-      "id": 6
+      "id": 6,
+      "favorito": false
     },
     {
       "conteudo": "Ela roubou meu caminhão",
       "autoria": "Mamonas",
       "modelo": "modelo1",
-      "id": 7
+      "id": 7,
+      "favorito": false
     },
     {
       "conteudo": "I always thought i may be bad",
       "autoria": "steven universe",
       "modelo": "modelo3",
-      "id": 8
+      "id": 8,
+      "favorito": false
     }
   ]
 }
