@@ -1,8 +1,8 @@
 # Memoteca
 
-🇧🇷  
+[🇧🇷] 
 
-[🇬🇧](#texto-em-ingles)
+[🇬🇧]
 
 
 ## Apresentação em portugues
@@ -43,7 +43,7 @@ as operações com requisição HTTP.
 
 
 🇬🇧
-## English Text {#texto-em-ingles}
+## English Text
 
 What is this project?
 * This is a project that demonstrates the steps of reading, creating, editing, and deleting forms, reusing components.
