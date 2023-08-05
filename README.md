@@ -2,7 +2,7 @@
 
 🇧🇷  
 
-🇬🇧 [English Text](#texto-em-ingles)
+[🇬🇧](#texto-em-ingles)
 
 
 ## Apresentação em portugues
