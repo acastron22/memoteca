@@ -5,7 +5,7 @@
 [🇬🇧](#english-text)
 
 ## Apresentação em portugues
-O que seria a Memoteca
+O que seria a Memoteca?
 
 
 # O que é esse projeto??
@@ -44,6 +44,7 @@ as operações com requisição HTTP.
 🇬🇧
 
 ## English Text
+What is 'Memoteca'?
 
 What is this project?
 * This is a project that demonstrates the steps of reading, creating, editing, and deleting forms, reusing components.
