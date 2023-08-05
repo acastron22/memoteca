@@ -1,6 +1,6 @@
 # Memoteca
 
-[🇧🇷] 
+[🇧🇷](#apresentacao-em-portugues)
 
 [🇬🇧](#english-text)
 
