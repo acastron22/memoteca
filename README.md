@@ -2,7 +2,7 @@
 
 🇧🇷 | [🇬🇧 (english)](#texto-em-ingles)
 
-
+🇧🇷
 ## Apresentação em portugues
 O que seria a Memoteca
 
@@ -39,7 +39,9 @@ as operações com requisição HTTP.
 
 ### Sinta-se a vontade para me mandar mensagens com qualquer dúvida sobre o projeto! Até logo!
 
-## English Text{#texto-em-ingles}
+
+🇬🇧
+## English Text {#texto-em-ingles}
 
 What is this project?
 * This is a project that demonstrates the steps of reading, creating, editing, and deleting forms, reusing components.
