@@ -42,6 +42,7 @@ as operações com requisição HTTP.
 
 
 🇬🇧
+#english-text
 ## English Text
 
 What is this project?
