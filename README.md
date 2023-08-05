@@ -1,6 +1,6 @@
 # Memoteca
 
-🇧🇷 | [🇬🇧 (english)](#texto-em-ingles)
+🇧🇷 | <a href="#texto-em-ingles" onclick="scrollToSection('texto-em-ingles')">🇬🇧</a>
 
 🇧🇷
 ## Apresentação em portugues
@@ -74,3 +74,11 @@ HTTP operations.
 
 ### Feel free to send me messages with any questions about the project! See you later!
 
+<script>
+function scrollToSection(sectionId) {
+  const section = document.getElementById(sectionId);
+  if (section) {
+    section.scrollIntoView({ behavior: 'smooth' });
+  }
+}
+</script>
