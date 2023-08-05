@@ -4,7 +4,6 @@
 
 [🇬🇧]
 
-
 ## Apresentação em portugues
 O que seria a Memoteca
 
