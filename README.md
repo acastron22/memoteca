@@ -1,7 +1,9 @@
 # Memoteca
 
-:brazil:
+🇧🇷 | [🇬🇧 (english)](#texto-em-ingles)
 
+
+## Apresentação em portugues
 O que seria a Memoteca
 
 
@@ -36,3 +38,37 @@ Foi desenvolvido utilizando o Angular 15, muito CSS para personalização e arte
 as operações com requisição HTTP. 
 
 ### Sinta-se a vontade para me mandar mensagens com qualquer dúvida sobre o projeto! Até logo!
+
+## English Text{#texto-em-ingles}
+
+What is this project?
+* This is a project that demonstrates the steps of reading, creating, editing, and deleting forms, reusing components.
+* Users can save any notes they wish and do action like edit, view, and delete them.
+* The application contains pagination, so more and more content can be loaded as it is added.
+* It also includes a filter for thoughts, making it possible to search for thoughts or authors.
+* Route reloading.
+* Dynamic page title change.
+
+To develop this project, I used Angular version 15.2.9.
+It is a reactive form that goes through validators and indicates possible errors to users.
+Bootstrap was not used in this project, all classes were custom-made and edited in SCSS to try to achieve application responsiveness for computer screens.
+A simple backend, json server, was used to run the application and demonstrate Angular's HTTP communications.
+
+# Installation and Usage
+To test this application, follow these instructions:
+
+1. Open a terminal and clone the project (either using git clone or downloading it as a zip file).
+2. After cloning the project, navigate into its folder.
+3. In the terminal, within the project folder, install the required packages using the command `npm i --save`.
+4. Once the necessary packages for running the application are installed, use the command `ng version` to check if all packages were installed. In case of any errors, and if the Angular package is not installed correctly, repeat step 3 again, making sure you are inside the project folder to run the command. You can use the command `ls` in the CLI to verify which files are in the folder; you should see the files 'package.json', 'angular.json', and 'package-lock.json'.
+5. Go into the 'backend' folder to install the backend's dependency packages. Type `npm i --save`.
+6. Start the backend with the command `npm start`.
+7. Return to the project folder with `cd ..`.
+8. With all the packages installed, use the command `ng serve -o` to run the application.
+
+# Development
+It was developed using Angular 15, a lot of CSS for customization, ready-made art from the course, and a json server to run a small server and perform
+HTTP operations.
+
+### Feel free to send me messages with any questions about the project! See you later!
+
