@@ -24,7 +24,7 @@ Foi utilizado um backend simples, o json server, para rodar a aplicação e demo
 # Instalação e uso
 Para testar essa aplicação siga as instruções:
 
-1. Abra um terminal e Ffça um clone do projeto (ou por git clone ou baixar ele compactado);
+1. Abra um terminal e faça um clone do projeto (ou por git clone ou baixar ele compactado);
 2. Ao fazer o o clone do projeto, abra a pasta dele;
 3. Pelo terminal, dentro da pasta do projeto, adicione os pacotes pelo comando ```npm i --save```
 4. Ao instalar os pacotes necessários para rodar a aplicação, use o comando ```ng version``` para saber se foram instalados todos os pacotes. Caso de algum erro, e o pacote Angular não for  instalado corretamente, repita a etapa 3 novamente, atente-se para estar dentro da pasta do projeto para rodar o comando. no CLI pode usar o comando ```ls``` para verificar quais arquivos se encontram na pasta, você deve ver os arquivos 'package.json', 'angular.json', 'package-lock.json'.
