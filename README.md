@@ -1,8 +1,10 @@
 # Memoteca
 
-🇧🇷 | <a href="#texto-em-ingles" onclick="scrollToSection('texto-em-ingles')">🇬🇧</a>
+🇧🇷  
 
-🇧🇷
+🇬🇧 [English Text](#texto-em-ingles)
+
+
 ## Apresentação em portugues
 O que seria a Memoteca
 
@@ -74,11 +76,3 @@ HTTP operations.
 
 ### Feel free to send me messages with any questions about the project! See you later!
 
-<script>
-function scrollToSection(sectionId) {
-  const section = document.getElementById(sectionId);
-  if (section) {
-    section.scrollIntoView({ behavior: 'smooth' });
-  }
-}
-</script>
